@@ -59,24 +59,15 @@ flutter run
  ```
 
 
- ## Ekran Görüntüleri
+## Ekran Görüntüleri
 
-### Ana Sayfa
-<img width="352" height="719" alt="ana_ekran" src="https://github.com/user-attachments/assets/459d970f-e614-4240-be7e-11506637c3a6" />
+| Ana Sayfa | Ürün Detay |
+|---|---|
+| <img width="300" src="https://github.com/user-attachments/assets/459d970f-e614-4240-be7e-11506637c3a6" /> | <img width="300" src="https://github.com/user-attachments/assets/fa49f4fd-09d6-46ca-af5b-855011b5e2b3" /> |
 
-### Ürün Detay
-<img width="351" height="719" alt="detay_ekran" src="https://github.com/user-attachments/assets/fa49f4fd-09d6-46ca-af5b-855011b5e2b3" />
-
-
-### Boş Sepet Ekranı
-<img width="349" height="717" alt="bos_sepet" src="https://github.com/user-attachments/assets/775ccdf9-9df1-46fb-9c4d-bb027ff269dd" />
-
-
-### Dolu Sepet Ekranı
-
-<img width="352" height="721" alt="dolu_sepet" src="https://github.com/user-attachments/assets/89f8b9c8-69c1-49bf-9bef-09ac9881f7ea" />
-
-
+| Boş Sepet Ekranı | Dolu Sepet Ekranı |
+|---|---|
+| <img width="300" src="https://github.com/user-attachments/assets/775ccdf9-9df1-46fb-9c4d-bb027ff269dd" /> | <img width="300" src="https://github.com/user-attachments/assets/89f8b9c8-69c1-49bf-9bef-09ac9881f7ea" /> |
 
 
 
